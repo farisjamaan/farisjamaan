@@ -1,9 +1,8 @@
-# 🏄‍♂️ FARIS ALGHAMDI
+# 👨‍💻 FARIS ALGHAMDI
 
-**`AI Engineer (Developer/Creator)`**
+**`AI Developer (Developer/Creator)`**
 
-I'm an AI engineer...
-
+I'm an AI Developer with a Bachelor of Science in Artificial Intelligence. I love developing machine learning models. All projects are built from the ground up and encompasses diverse domains, including computer vision, natural language processing, and predictive analytics. 
 
 ---
 
@@ -22,7 +21,4 @@ I'm an AI engineer...
 <br />
 
 #
-
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
