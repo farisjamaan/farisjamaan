@@ -1,6 +1,6 @@
 # 👨‍💻 FARIS ALGHAMDI
 
-**`AI Developer (Developer/Creator)`**
+**`AI Developer`**
 
 I'm an AI Developer with a Bachelor of Science in Artificial Intelligence. I build and deploy machine learning models. All projects are built from the ground up and it encompasses diverse domains, including computer vision, natural language processing, and predictive analytics. 
 
