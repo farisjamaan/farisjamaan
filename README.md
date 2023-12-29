@@ -1,6 +1,6 @@
 # 👨‍💻 FARIS ALGHAMDI
 
-**`AI Developer`**
+**`AI Engineer`**
 
 ---
 
